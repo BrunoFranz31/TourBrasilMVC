@@ -1,0 +1,28 @@
+@model usuario
+
+<h1>EDITE SEU CADASTRO</h1>
+
+<form method="post" asp-action="editar">
+<h3>Dados da sua conta</h3>
+<input type="hidden" asp-for="idUsuario">
+    <p>
+        <label>Nome:</label>
+        <input asp-for="nomeUsuario">
+    </p>
+    <p>
+        <label>Usuário:</label>
+        <input asp-for="user">
+    </p>
+    <p>
+        <label>Senha</label>
+        <input asp-for="senhaUsuario">
+    </p>
+    <p>
+        <label>Data de nascimento:</label>
+        <input asp-for="dataNascimento">
+    </p>
+
+    <input type="submit" value="editar">
+    
+</form>
+

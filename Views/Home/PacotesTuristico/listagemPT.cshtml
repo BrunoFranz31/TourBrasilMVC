@@ -1,0 +1,32 @@
+@model List<usuario>
+
+<h1>LISTAGEM DE PACOTES</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+             <th>Seu ID:</th>
+             <th>Nome:</th>
+             <th>Usuário:</th>
+             <th>Senha:</th>
+             <th>Data Nascimento:</th>
+        </tr>
+       
+    </thead>
+    @foreach (usuario a in Model)
+    {
+        <tr>
+            <td>@a.idUsuario</td>
+            <td>@a.nomeUsuario</td>
+            <td>@a.user</td>
+            <td>@a.senhaUsuario</td>
+            <td>@a.dataNascimento</td>
+            <td>
+                <a href="/pacotesTuristicos/editar?Id=@a.idUsuario">Editar</a> 
+                <a href="/pacotesTuristicos/excluir?Id=@a.idUsuario">Excluir</a>
+            </td>
+            
+        </tr>
+    }
+
+</table>

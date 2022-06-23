@@ -1,0 +1,26 @@
+@model usuario
+
+<h1>Bem vindo ao site, efetue seu cadastro</h1>
+
+<form method="post" asp-action="cadastrar">
+<h3>Registre sua conta</h3>
+    <p>
+        <label>Nome:</label>
+        <input asp-for="nomeUsuario">
+    </p>
+    <p>
+        <label>Usuário:</label>
+        <input asp-for="user">
+    </p>
+    <p>
+        <label>Senha</label>
+        <input asp-for="senhaUsuario">
+    </p>
+    <p>
+        <label>Data de nascimento:</label>
+        <input asp-for="dataNascimento">
+    </p>
+
+    <input type="submit" value="cadastrar">
+    
+</form>

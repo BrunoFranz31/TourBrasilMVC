@@ -1,0 +1,44 @@
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.csprojAssemblyReference.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.AssemblyInfoInputs.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.AssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.csproj.CoreCompileInputs.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.RazorAssemblyInfo.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.RazorAssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.TagHelpers.input.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.TagHelpers.output.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.RazorCoreGenerate.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.RazorTargetAssemblyInfo.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.RazorTargetAssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.exe
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.deps.json
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.runtimeconfig.json
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.runtimeconfig.dev.json
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.Views.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\TourBrasil - SENAC.Views.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.Views.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\staticwebassets\TourBrasil - SENAC.StaticWebAssets.Manifest.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\staticwebassets\TourBrasil - SENAC.StaticWebAssets.xml
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.genruntimeconfig.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\TourBrasil - SENAC.csproj.CopyComplete
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristico\editarPT.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristico\listagemPT.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristico\loginPT.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\PacotesTuristico\vitrine.cshtml.g.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\TourBrasil - SENAC\obj\Debug\netcoreapp3.1\Razor\Views\Home\usuario\cadastroUS.cshtml.g.cs
